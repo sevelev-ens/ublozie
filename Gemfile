@@ -2,5 +2,4 @@
 
 source "https://rubygems.org"
 gemspec
-gem install bundler -v 1.15
-bundle _1.15_ install
+gem 'bundler' -> "1.15"
