@@ -2,9 +2,9 @@
 title: уБлозе # your site title
 author: Максим Севелев-Дубровник # You :P
 description: > # Meta description of Homepage
-  Даследчы Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Максим Севелев-Дубровник: блог. Про белорусскость, 
+  языкознание, современность и минувшее, про научно-исследовательский
+  подход. Тексты песен на разных языках.
 baseurl: "/ublozie" # the subpath of your site, e.g. /blog
 url: "https://seveleu.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-sleek
@@ -13,21 +13,21 @@ theme: jekyll-sleek
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+#    - https://twitter.com/BenBalter
+#    - https://www.facebook.com/ben.balter
+#    - https://www.linkedin.com/in/BenBalter
+#    - https://plus.google.com/+BenBalter
+#    - https://github.com/benbalter
+#    - https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  - {name: 'уБлозе', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Кантакт', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Беларускасць, вывучэнне моў, постмадэрн, навука, станоўчая памяркоўнасць, тэксты песень.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
