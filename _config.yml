@@ -24,7 +24,7 @@ social:
 navigation: # Navigation links
   - {name: 'уБлозе', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Кантакт', link: '/contact'}
+  - {name: 'Сувязь', link: '/contact'}
 
 tagline: >
   Беларускасць, вывучэнне моў, постмадэрн, навука, станоўчая памяркоўнасць, тэксты песень.
