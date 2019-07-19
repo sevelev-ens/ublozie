@@ -8,6 +8,7 @@ description: > # Meta description of Homepage
 baseurl: "/ublozie" # the subpath of your site, e.g. /blog
 url: "https://seveleu.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-sleek
+lang: be
 
 # SEO PLUGIN
 social:
