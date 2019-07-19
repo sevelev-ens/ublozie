@@ -23,7 +23,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'уБлозе', link: '/'}
-  - {name: 'About', link: '/about'}
+  - {name: 'Да праектаў', link: 'https://seveleu.com'}
   - {name: 'Сувязь', link: '/contact'}
 
 tagline: >
