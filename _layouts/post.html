@@ -66,7 +66,7 @@ layout: compress
         <div class="controls__item prev">
           {% if page.previous.url %}
 
-          <span>Previous</span>
+          <span>Папярэдняе змесціва</span>
           <a href="{{page.previous.url | relative_url }}">
                 <span>
                   <svg xmlns="http://www.w3.org/2000/svg" width="6" height="11">
@@ -80,7 +80,7 @@ layout: compress
 
         <div class="controls__item next">
           {% if page.next.url %}
-          <span>Next</span>
+          <span>Наступнае змесціва</span>
           <a href="{{page.next.url | relative_url }}">
             {{page.next.title | strip_html | truncate: 30}}
             <span>
