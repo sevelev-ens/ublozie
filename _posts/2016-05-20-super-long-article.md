@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Әбдіжаппар Әлқожа – «Оригиналсың»
-featured-img: shane-rounce-205187
+featured-img: singing-barkhan
 categories: [Песні, Казахская мова]
 ---
 
