@@ -45,11 +45,11 @@ layout: compress
         </span>
         <span>
             {% assign words = content | number_of_words %}
-              {% if words < 360 %}
-                1 min
+             Зместу на {% if words < 360 %}
+                1 хвіліну 
               {% else %}
-                {{ words | divided_by:180 }} mins
-            {% endif %} read
+                {{ words | divided_by:180 }} хв.
+            {% endif %} чытання
         </span>
       </p>
     </div>
