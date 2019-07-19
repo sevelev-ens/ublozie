@@ -7,9 +7,10 @@ categories: [Песні, Казахская мова]
 
 # Әбдіжаппар Әлқожа – «Оригиналсың»
 
-## Әні: Ә.Әлқожа, сөзі: Т.Мықи
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qCgWw85Rgzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Әні: Ә.Әлқожа, сөзі: Т.Мықи
 
 Бақытыңды аялап қолыңдағы<br>
 Басыңдағы бағыңды өшірмеші<br>
