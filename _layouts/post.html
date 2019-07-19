@@ -41,7 +41,27 @@ layout: compress
       <h1 class="hero__title">{{ page.title }}</h1>
       <p class="hero__meta">
         <span>
-          <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
+          {% assign m = page.date | date: "%-m" %}
+          <time>{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}студзеня
+  {% when '2' %}лютага
+  {% when '3' %}сакавіка
+  {% when '4' %}красавіка
+  {% when '5' %}траўня
+  {% when '6' %}чэрвеня
+  {% when '7' %}ліпеня
+  {% when '8' %}жніўня
+  {% when '9' %}верасня
+  {% when '10' %}кастрычніка
+  {% when '11' %}лістапада
+  {% when '12' %}снежня
+{% endcase %}
+{{ page.date | date: "%Y" }}</time>&nbsp;&middot;
+          
+          
+
+          
         </span>
         <span>
             {% assign words = content | number_of_words %}
