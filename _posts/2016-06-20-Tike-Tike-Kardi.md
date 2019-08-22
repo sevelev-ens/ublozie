@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Āraš Labāf – «Tike Tike Kardi»
-featured-img: singing-barkhan
+featured-img: sleek
 usesame-img: yes
 categories: [Песні, Персідская мова]
 ---
