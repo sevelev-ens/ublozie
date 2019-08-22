@@ -6,7 +6,7 @@ usesame-img: yes
 categories: [Песні, Персідская мова]
 ---
 
-# Āraš Labāf – «Tike Tike Kardi»
+# Āraš Labāf – «Tike-Tike Kardi»
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9Frwek3VAOc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,41 +26,41 @@ Tike‌-ye tike bardi del-e meno dar be deram kardi to ru to ru میخوامت
 
 
 
-Biā to, khod-et biā to,
+Biā to, xod-et biā to,
 Faqat to biā pahlu-ye man.
 Negā-to, sedā-to, labā-to
 Mixām barā-ye man.
 
 Biā to! Pahlu-ye man!
 Negā-to! Mixām bā man!
-Sedxwwxxwxwcxwxwwxxxdsxdddā-to! Dust dāram!
-Sedā-to! Dust dāram!S
+Sedā-to! Dust dāram!
 
 Refrain:
 
 Tike-tike kardi del-e man-o,
-Sar besa
-QSDC
+Sar be sar-am nazar dige-dige mixām-et
+Tike-tike bordi del-e man-o,
+Dar be dar-am kardi, to-ro to-ro mixām-et.
 
 
-hey you come , yourself come
-just you come here near me
-your looking, your voice,your lips
-I want them for myself
-you come, near me
-your look! I want with myself
-your voice! I like it!
+## Пераклад
 
-you've crushed
+Падыдзі, уласна ты,
+Толькі ты хадзі да мяне.
+Твайго  позірку, твайго голасу, тваіх вуснаў
+Я жадаю сабе (для сябе).
 
-my heart
-don't bother me anymore, I want you
-you've crushed my heart
-you made me homeless, I want you
+Ты хадзі — да мяне!
+Твой позірк — я хачу!
+Твой голас — мне падабаецца! 
 
+Прыпеў:
 
+Ты разбіла (ла-ла) мне сэрца,
+У сваёй галаве больш не хачу цябе мець,
+Ты нашынкавала (ла-ла) на кавалкі маё сэрца,
+Ты чыніш мне боль, я цябе жадаю.
 
-Tike tike bordi dele mano
 
 
 متن آهنگ تیکه تیکه کردی از آرش
@@ -69,4 +69,4 @@ Tike tike bordi dele mano
 نگاتو صداتو لباتو میخوام برای من
 بیا تو پهلوی من نگاتو میخوام با من صداتو دوس دارم
 تیکه تیکه کردی دل منو سر به سرم نذار دیگه دیگه میخوامت
-تیکه تیکه بردی دل منو در به درم کردی تو رو تو رو میخوامتSSDSDSSD
+تیکه تیکه بردی دل منو در به درم کردی تو رو تو رو میخوامت
