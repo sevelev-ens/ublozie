@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Rasa Doniela — Tu Prisėdai Šalia žodžiai
+title: Rasa Doniela — Tu Prisėdai Šalia 
 featured-img: emile-perron-190221
 usesame-img: yes
 categories: [Песні, Літоўская мова]
 ---
 
-# 2 Donatai — Tu Prisėdai Šalia žodžiai
+# 2 Donatai — Tu Prisėdai Šalia 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hQqMETL0FHo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Robert Uhlmann, Labāf-Zāde Alex Rahim
 
 
 Snaigės leidos ant tavo plaukų,<br>  
