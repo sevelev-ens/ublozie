@@ -14,59 +14,47 @@ categories: [Песні, Персідская мова]
 ## Robert Uhlmann, Labāf-Zāde Alex Rahim
 
 
-tn-e āhang-e tike‌-ye tike‌-ye kordi az Āraš
+Biā to, xod-et biā to,<br>
+Faqat to biā pahlu-ye man.<br>
+Negā-to, sedā-to, labā-to<br>
+Mixām barā-ye man.<br>
 
-Biyā to xod-at biyā to faqat to biyā polow-i man
-نگاتو sadOto لباتو میخوام barā-ye man
-Biyā to pahlu-ye man نگاتو میخوام bā man sadOto dosin dāram
-Tike‌-ye tike‌-ye kordi-ye del-e meno sar be serom نذار دیگه دیگه میخوامت
-Tike‌-ye tike bardi del-e meno dar be deram kardi to ru to ru میخوامت
+Biā to! Pahlu-ye man!<br>
+Negā-to! Mixām bā man!<br>
+Sedā-to! Dust dāram!<br>
 
+Refrain:<br>
 
-
-
-
-Biā to, xod-et biā to,
-Faqat to biā pahlu-ye man.
-Negā-to, sedā-to, labā-to
-Mixām barā-ye man.
-
-Biā to! Pahlu-ye man!
-Negā-to! Mixām bā man!
-Sedā-to! Dust dāram!
-
-Refrain:
-
-Tike-tike kardi del-e man-o,
-Sar be sar-am nazar dige-dige mixām-et
-Tike-tike bordi del-e man-o,
-Dar be dar-am kardi, to-ro to-ro mixām-et.
+Tike-tike kardi del-e man-o,<br>
+Sar be sar-am nazar dige-dige mixām-et<br>
+Tike-tike bordi del-e man-o,<br>
+Dar be dar-am kardi, to-ro to-ro mixām-et.<br>
 
 
 ## Пераклад
 
-Падыдзі, уласна ты,
-Толькі ты хадзі да мяне.
-Твайго  позірку, твайго голасу, тваіх вуснаў
-Я жадаю сабе (для сябе).
+Падыдзі, уласна ты,<br>
+Толькі ты хадзі да мяне.<br>
+Твайго  позірку, твайго голасу, тваіх вуснаў<br>
+Я жадаю сабе (для сябе).<br>
 
-Ты хадзі — да мяне!
-Твой позірк — я хачу!
-Твой голас — мне падабаецца! 
+Ты хадзі — да мяне!<br>
+Твой позірк — я хачу!<br>
+Твой голас — мне падабаецца! <br>
 
-Прыпеў:
+Прыпеў:<br>
 
-Ты разбіла (ла-ла) мне сэрца,
-У сваёй галаве больш не хачу цябе мець,
-Ты нашынкавала (ла-ла) на кавалкі маё сэрца,
-Ты чыніш мне боль, я цябе жадаю.
+Ты разбіла (ла-ла) мне сэрца,<br>
+У сваёй галаве больш не хачу цябе мець,<br>
+Ты нашынкавала (ла-ла) на кавалкі маё сэрца,<br>
+Ты чыніш мне боль, я цябе жадаю.<br>
 
 
 
 متن آهنگ تیکه تیکه کردی از آرش
 
-بیا تو خودت بیا تو فقط تو بیا پلوی من
-نگاتو صداتو لباتو میخوام برای من
-بیا تو پهلوی من نگاتو میخوام با من صداتو دوس دارم
-تیکه تیکه کردی دل منو سر به سرم نذار دیگه دیگه میخوامت
-تیکه تیکه بردی دل منو در به درم کردی تو رو تو رو میخوامت
+<br>بیا تو خودت بیا تو فقط تو بیا پلوی من
+<br>نگاتو صداتو لباتو میخوام برای من
+<br>بیا تو پهلوی من نگاتو میخوام با من صداتو دوس دارم
+<br>تیکه تیکه کردی دل منو سر به سرم نذار دیگه دیگه میخوامت
+<br>تیکه تیکه بردی دل منو در به درم کردی تو رو تو رو میخوامت
