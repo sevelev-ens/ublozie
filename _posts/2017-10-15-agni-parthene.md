@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ἁγνὴ Παρθένε
-featured-img: emile-perron-190221
+featured-img: theotokos
 usesame-img: yes
 categories: [Песні, Грэчаская мова]
 ---
