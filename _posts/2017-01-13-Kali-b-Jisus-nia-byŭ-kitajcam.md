@@ -11,7 +11,7 @@ categories: [Хрысціянства, Усцешнае]
 
 
 
-![](/assets/img/jesus/234-2-700x438.jpg "234")
+![](/ublozie/assets/img/posts/jesus/234-2-700x438.jpg "234")
 
 
 Ісус бесправаротна быў яўрэям. Тым не менш, розныя культуры і этнасы часта мапрадстаўлялі Ісуса і іншых людзей з Бібліі як бы сваіх
@@ -31,32 +31,33 @@ categories: [Хрысціянства, Усцешнае]
 
 #### ** Дабравешчанне **
 
-![](/assets/img/jesus/2.jpg)
+![](/ublozie/assets/img/posts/jesus/2.jpg)
+
 
 #### ** Нараджэнне Хрыста **
 
-![](/assets/img/jesus/1-2.jpg)
+![](/ublozie/assets/img/posts/jesus/1-2.jpg)
 
 #### ** Анёл з'яўляецца пастухам каля Бэтлеема **
 
-![](/assets/img/jesus/3.jpg)
+![](/ublozie/assets/img/posts/jesus/3.jpg)
 
 #### ** Пакланенне вешчуноў **
 
-![](/assets/img/jesus/4.jpg)
+![](/ublozie/assets/img/posts/jesus/4.jpg)
 
 #### ** Палёт у Егіпет **
 
-![](/assets/img/jesus/5.jpg)
+![](/ublozie/assets/img/posts/jesus/5.jpg)
 
 #### ** Ісус з Жанчынай ля студні **
 
-![](/assets/img/jesus/6.jpg)
+![](/ublozie/assets/img/posts/jesus/6.jpg)
 
 #### ** Езус мые ногі сваіх апосталаў **
 
-![](/assets/img/jesus/7.jpg)
+![](/ublozie/assets/img/posts/jesus/7.jpg)
 
 #### ** Ісус супакойвае шторм **
 
-![](/assets/img/jesus/8.jpg)
+![](/ublozie/assets/img/posts/jesus/8.jpg)
