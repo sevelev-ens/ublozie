@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Калі б Ісус не быў кітайцам
-featured-img: jesus/234-2-700x438.jpg
+featured-img: jesus/234-2-700x438
 usesame-img: yes
 categories: [Хрысціянства, Усцешнае]
 ---
