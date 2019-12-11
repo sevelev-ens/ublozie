@@ -11,7 +11,7 @@ categories:
 published: true
 ---
 
-# Росы
+# Росы // Rosées
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DlKhBpTPz2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ published: true
     <section id="bel" class="tab-panel">
 
 Каб я знала-ведала,<br>
-Калі мне ўмиіраці,<br>
+Калі мне ўміраці,<br>
 — Ой, Божа ж мой, Божа —<br>
 Наняла б я плотнічка<br>
 Грабок згатаваці.<br>
