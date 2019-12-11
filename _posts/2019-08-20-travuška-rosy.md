@@ -43,53 +43,39 @@ published: true
     </section>
       <section id="etym" class="tab-panel">
 
-Когда б знала-ведала,
+Когда б знала-ведала,<br>
+Когда мне умирати,<br>
+— Ай, Боже мой, Боже —<br>
+Наняла б я плотничка<br>
+Гробок сготовати.<br>
+— Ай, Боже мой, Боже!<br>
 
-Когда мне умирати,
+<br>
 
-— Ай, Боже мой, Боже —
+Ляжу сама, помру,<br>
+Полечу до Бога.<br>
+— Ай, Боже мой, Боже —<br>
+Я у нашего бога<br>
+Велика тревога.<br>
+— Ай, Боже мой, Боже!<br>
 
-Наняла б я плотничка
+<br>
 
-Гробок сготовати.
+Травушка шелковая,<br>
+Ой, росы мои жемчужны!<br>
 
-— Ай, Боже мой, Боже!
+<br>
+Спусти меня, Господи,<br>
+С неба да на землю.<br>
+— Ай, Боже мой, Боже —<br>
+С неба да и на землю,<br>
+На жёлтый песочек.<br>
+— Ай, Боже мой, Боже!<br>
 
+<br>
 
-Ляжу сама, помру,
-
-Полечу до Бога.
-
-— Ай, Боже мой, Боже —
-
-Я у нашего бога
-
-Велика тревога.
-
-— Ай, Боже мой, Боже!
-
-
-Травушка шелковая,
-
-Ой, росы мои жемчужны!
-
-Спусти меня, Господи,
-
-С неба да на землю.
-
-— Ай, Боже мой, Боже —
-
-С неба да и на землю,
-
-На жёлтый песочек.
-
-— Ай, Боже мой, Боже!
-
-
-
-Травушка шелковая,
-
-Ой, росы мои жемчужны!
+Травушка шелковая,<br>
+Ой, росы мои жемчужны!<br>
 
 </section>
 
@@ -98,54 +84,41 @@ published: true
 
 
 
-Si seulement je savais-sentais
+Si seulement je savais-sentais<br>
+L'heure quand je mourrai,<br>
+Ô Seigneur, mon Dieu\!<br>
+Je ferais un bon charpentier<br>
+Me préparer un cercueillet<br>
+Ô Seigneur, mon Dieu\!<br>
 
-L'heure quand je mourrai,
+<br>
 
-Ô Seigneur, mon Dieu\!
-
-Je ferais un bon charpentier
-
-Me préparer un cercueillet
-
-Ô Seigneur, mon Dieu\!
-
-
-Je m'allonge et je meurs,
-
-Jusqu'à Dieu je vole
-
-Ô Seigneur, mon Dieu\!
-
-Suis-je pour notre Dieu
-
-Tel un grand souci.
-
-Ô Seigneur, mon Dieu\!
+Je m'allonge et je meurs,<br>
+Jusqu'à Dieu je vole<br>
+Ô Seigneur, mon Dieu\!<br>
+Suis-je pour notre Dieu<br>
+Tel un grand souci.<br>
+Ô Seigneur, mon Dieu\!<br>
 
 
-Ô ma belle herbe, ma soyeuse\!
+<br>
 
-Ô mes rosées perlières\!
+Ô ma belle herbe, ma soyeuse\!<br>
+Ô mes rosées perlières\!<br>
 
+<br>
 
-Descends-moi, ô mon Seigneur,
+Descends-moi, ô mon Seigneur,<br>
+Du ciel jusque sur la terre<br>
+Ô Seigneur, mon Dieu\!<br>
+Du ciel jusque sur la terre<br>
+Sur du sable jaune<br>
+Ô Seigneur, mon Dieu\!<br>
 
-Du ciel jusque sur la terre
+<br>
 
-Ô Seigneur, mon Dieu\!
-
-Du ciel jusque sur la terre
-
-Sur du sable jaune
-
-Ô Seigneur, mon Dieu\!
-
-
-
-Ô ma belle herbe, ma soyeuse\!
-
-Ô mes rosées perlières\!
+Ô ma belle herbe, ma soyeuse\!<br>
+Ô mes rosées perlières\!<br>
 
 
 </section>
