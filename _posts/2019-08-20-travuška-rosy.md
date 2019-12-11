@@ -42,41 +42,110 @@ published: true
 <p>Сайт знаходзіцца ў некаторым спазненні ў публікацыі, яно будзе выпраўлена да сакавіка 2019.</p>
     </section>
       <section id="etym" class="tab-panel">
-      <p>All Belarusian-language works of the publishing house &ldquo;Vodary Paris&rdquo; are grouped into the publishing series &ldquo;<em>Jamy, vulli i viry</em>&rdquo; (&ldquo;pits, beehives, whirlpools&rdquo;). This series was set up in 1517+500=2017, 500 years after Francis Skorina founded Belarusian bookprinting in Prague. The purposes of this initiative are multiple:</p>
-<p><strong>Pragmatic</strong>: to provide overseas Belarusians with printed literature while not tying the manufacturing, distribution and sales processes to metropolitan Belarus.</p>
-<p><strong>Scientific</strong>: to publish research in the areas of Belarusan linguistics, historiography, social studies, ethnography, as well as dictionaries, reference books, etc.</p>
-<p><strong>Regulatory and standardizing</strong>: Belarusian language benefits from three graphic systems, while only <em>Cyrillic</em> is used on a daily basis. We aim to renew the use of the Belarusian <em>Latin</em> script and to re-found its secular <em>Arabic</em> script (secular &mdash; not motivated by religious needs) through the publication of the main Belarusian culture-forming texts via these protocols.</p>
-<p>Publishing editor of the series: <strong><a href="https://seveleu.com" target="_blank">Maxime Seveleu-Dubrovnik</a></strong>, PhD.</p>
-<p>The site is late in its updates, the discrepancy will be eliminated before March 2019.</p>
-  </section>
-    <section id="fra" class="tab-panel">
 
 Когда б знала-ведала,
+
 Когда мне умирати,
+
 — Ай, Боже мой, Боже —
+
 Наняла б я плотничка
+
 Гробок сготовати.
+
 — Ай, Боже мой, Боже!
+
 
 Ляжу сама, помру,
+
 Полечу до Бога.
+
 — Ай, Боже мой, Боже —
+
 Я у нашего бога
+
 Велика тревога.
+
 — Ай, Боже мой, Боже!
 
+
 Травушка шелковая,
+
 Ой, росы мои жемчужны!
 
 Спусти меня, Господи,
+
 С неба да на землю.
+
 — Ай, Боже мой, Боже —
+
 С неба да и на землю,
+
 На жёлтый песочек.
+
 — Ай, Боже мой, Боже!
 
+
+
 Травушка шелковая,
+
 Ой, росы мои жемчужны!
+
+</section>
+
+<section id="fra" class="tab-panel">
+
+
+
+
+Si seulement je savais-sentais
+
+L'heure quand je mourrai,
+
+Ô Seigneur, mon Dieu\!
+
+Je ferais un bon charpentier
+
+Me préparer un cercueillet
+
+Ô Seigneur, mon Dieu\!
+
+
+Je m'allonge et je meurs,
+
+Jusqu'à Dieu je vole
+
+Ô Seigneur, mon Dieu\!
+
+Suis-je pour notre Dieu
+
+Tel un grand souci.
+
+Ô Seigneur, mon Dieu\!
+
+
+Ô ma belle herbe, ma soyeuse\!
+
+Ô mes rosées perlières\!
+
+
+Descends-moi, ô mon Seigneur,
+
+Du ciel jusque sur la terre
+
+Ô Seigneur, mon Dieu\!
+
+Du ciel jusque sur la terre
+
+Sur du sable jaune
+
+Ô Seigneur, mon Dieu\!
+
+
+
+Ô ma belle herbe, ma soyeuse\!
+
+Ô mes rosées perlières\!
 
 
 </section>
