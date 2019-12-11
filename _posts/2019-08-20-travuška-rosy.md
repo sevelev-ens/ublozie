@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Травушъка шелъковая
-featured-img: stratego
+featured-img: fogfarm
 usesame-img: 'yes'
 categories:
   - Песні
