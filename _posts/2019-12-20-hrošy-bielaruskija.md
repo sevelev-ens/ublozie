@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Беларускія грошы, billets de banque bélarussiens
-featured-img: Беларускія грошы/B1-1.JPG
+featured-img: B5000-1
 usesame-img: yes
 categories: [Беларусь, Беларуская мова]
 ---
