@@ -50,5 +50,5 @@ categories: [Беларусь, Беларуская мова]
 ![](/ublozie/assets/img/posts/Беларускія грошы/B50000~1.JPG)
 ![](/ublozie/assets/img/posts/Беларускія грошы/B50000~2.JPG)
 ![](/ublozie/assets/img/posts/Беларускія грошы/B50K-1.JPG)
-![](/ublozie/assets/img/posts/Беларускія грошы/B50K-2.JPG))
+![](/ublozie/assets/img/posts/Беларускія грошы/B50K-2.JPG)
 
