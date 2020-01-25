@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Савецкія дыглосіі: двухмоўныя дакументы
+title: Савецкія дыглосіі&colon; двухмоўныя дакументы
 featured-img: fantastyčny-prafbiliet
 usesame-img: yes
 categories: [Двухмоўе, Мовы]
