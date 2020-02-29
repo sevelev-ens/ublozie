@@ -35,7 +35,7 @@ categories: [Іўрыт, Мовы, Песні]
     </section>
       <section id="heb" class="tab-panel">
 
-<pre>
+<span style="white-space: pre-line">
 
 מתפרק כמו התמונה הישנה שבביתך
 מתחמק מכל דבר שמזכיר לי את לכתך
@@ -63,7 +63,7 @@ categories: [Іўрыт, Мовы, Песні]
 כשאת אוחזת בידו
 הא
 
-</pre>
+</span>
 </section>
 
 <section id="bel" class="tab-panel">
