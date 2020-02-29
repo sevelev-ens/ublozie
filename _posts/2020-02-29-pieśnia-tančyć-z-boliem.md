@@ -90,7 +90,7 @@ Ha·im libex axšav šelo?<br>
 <br>
 
 
-</span>
+
 </section>
 
 
