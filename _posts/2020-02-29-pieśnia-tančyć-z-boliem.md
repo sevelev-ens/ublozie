@@ -30,8 +30,32 @@ categories: [Іўрыт, Мовы, Песні]
   
   <div class="tab-panels">
     <section id="phon" class="tab-panel">
-<span style="white-space: pre-line">
-</span>
+
+Mitparek kmo ha tmuna ha yešana še be veytex,<br>
+Mitxamek mi kol davar še mazkir li et lextex,<br>
+Ve lo yadua, ani lo batuax le·an ani holeh,<br>
+Ha ga·agua še niš·ar, ani od hay li ba avar, šo·el madua.<br>
+ <br>
+Ve axšav ani mebit rak ba tmunot...<br>
+<br>
+Roked im ha ke·ev, kše at oxezet be yado,<br>
+Ha·im libex axšav šelo?<br>
+Kše at oxezet be yado,<br>
+Ha·im libex axšav šelo?<br>
+ <br>
+Mitxamek mi kol davar ve rak holeh u mitrahek,<br>
+Ve at omedet le muli, ani no·aš u mitbayeš,<br>
+Ve lo yadua, ani lo batuax le·an ani holeh,<br>
+Ha ga·agua še niš·ar, ani od hay li ba avar, šo·el madua.<br>
+ <br>
+Ve axšav ani mebit rak ba tmunot...<br>
+<br>
+Roked im ha ke·ev, kše at oxezet be yado,<br>
+Ha·im libex axšav šelo?<br>
+Kše at oxezet be yado,<br>
+Ha·im libex axšav šelo?<br>
+
+
     </section>
       <section id="heb" class="tab-panel">
 
@@ -72,10 +96,26 @@ categories: [Іўрыт, Мовы, Песні]
 
 <section id="bel" class="tab-panel">
 
-
-<span style="white-space: pre-line">
-</span>
-
+Я развальваюся бы старая карціна ў тваім доме.<br>
+Я пазбягаю ўсяго, што нагадвае мне пра тое, як ты сышла.<br>
+І невядома, я няўпэўнены, куды я рухаюся,<br>
+І я імкнуся застацца, я ўсё яшчэ жыву ў мінулым, пытаючыся чаму.<br>
+ <br>
+А зараз я гляджу толькі на здымкі ...<br>
+<br>
+Танцаваць з маім болем,<br>
+Калі ты трымаеш яго за руку,<br>
+Тваё сэрца зараз належыць яму?<br>
+Калі ты трымаеш яго за руку,<br>
+Тваё сэрца зараз належыць яму?<br>
+ <br>
+Я пазбягаю ўсяго і аддаляюся яшчэ і яшчэ,<br>
+Ты стаіш перада мной, я ў роспачы, я збянтэжаны,<br>
+І невядома, я няўпэўнены, куды я рухаюся,<br>
+І я імкнуся застацца, я ўсё яшчэ жыву ў мінулым, пытаючыся чаму.<br>
+<br>
+А зараз я гляджу толькі на здымкі ...<br>
+<br>
 </section>
   </div>
   
