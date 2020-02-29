@@ -36,7 +36,7 @@ Mitxamek mi kol davar še mazkir li et lextex,<br>
 Ve lo yadua, ani lo batuax le·an ani holeh,<br>
 Ha ga·agua še niš·ar, ani od hay li ba avar, šo·el madua.<br>
  <br>
-Ve axšav ani mebit rak ba tmunot...<br>
+Ve axšav ani mabit rak ba tmunot...<br>
 <br>
 Roked im ha ke·ev, kše at oxezet be yado,<br>
 Ha·im libex axšav šelo?<br>
@@ -46,9 +46,9 @@ Ha·im libex axšav šelo?<br>
 Mitxamek mi kol davar ve rak holeh u mitrahek,<br>
 Ve at omedet le muli, ani no·aš u mitbayeš,<br>
 Ve lo yadua, ani lo batuax le·an ani holeh,<br>
-Ha ga·agua še niš·ar, ani od hay li ba avar, šo·el madua.<br>
+Ha ga·agua še hiš·art, ani od hay li ba avar, šo·el madua.<br>
  <br>
-Ve axšav ani mebit rak ba tmunot...<br>
+Ve axšav ani mabit rak ba tmunot...<br>
 <br>
 Roked im ha ke·ev, kše at oxezet be yado,<br>
 Ha·im libex axšav šelo?<br>
@@ -112,7 +112,7 @@ Ha·im libex axšav šelo?<br>
 Я пазбягаю ўсяго і аддаляюся яшчэ і яшчэ,<br>
 Ты стаіш перада мной, я ў роспачы, я збянтэжаны,<br>
 І невядома, я няўпэўнены, куды я рухаюся,<br>
-І я імкнуся застацца, я ўсё яшчэ жыву ў мінулым, пытаючыся чаму.<br>
+Я так жадаю, каб ты засталася, я ўсё яшчэ жыву ў мінулым, пытаючыся чаму.<br>
 <br>
 А зараз я гляджу толькі на здымкі ...<br>
 <br>
