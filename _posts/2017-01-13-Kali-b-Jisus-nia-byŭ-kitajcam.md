@@ -59,4 +59,4 @@ categories: [Хрысціянства, Усцешнае]
 
 **Дамашняя работа**. Вынайсці ў сеціве выявы біблейскіх персанажаў і ікон ***эфіёпскага, японскага, арабскага*** паходжання і эстэтычнаых напрамкаў.
 
-(адказы: [1](https://www.google.com/search?q=ethiopian+orthodox+icons&tbm=isch), [2](https://www.google.com/sea	rch?q=japanese+christian+icons&tbm=isch), [3](https://www.google.com/search?q=arabic+orthodox+icons&tbm=isch)).
+(адказы: [1](https://www.google.com/search?q=ethiopian+orthodox+icons&tbm=isch), [2](https://www.google.com/search?q=japanese+christian+icons&tbm=isch), [3](https://www.google.com/search?q=arabic+orthodox+icons&tbm=isch)).
