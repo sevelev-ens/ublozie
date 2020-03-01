@@ -14,64 +14,6 @@ published: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fiK8wHm4JGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-
-
-Агнí Партхéне Дéспина,
-Áхранте Тхеотóке, — Р: Хéре Нíмфи Анíмфефте.
-Партхéне Мíтир Áнасса,
-Панéндросе те пóке. Р
-
-Ипсилотéра Уранóн,
-актíнон лампротéра, Р
-Харá партхеникóн хорóн,
-ангéлон ипертéра,Р
-
-Еклампротéра уранóн
-фотóс катхаротéра, Р
-Тон Уранíон стратиóн пасóн агиотéра.Р\\\\\\\\\\\ \\\\"\"\" 
-
-O pure and virgin Lady,/ O spotless Theotokos<br>
-R: Rejoice, O unwedded Bride!<br>
-O Virgin Queen and Mother/ O dewy fleece most sacred <br>
-O height transcending heaven above/ O beam of light most radiant <br>
-O joy of chaste and virgin maids/ surpassing all the angels <br>
-O brilliant light of heaven above/ most clear and most radiant <br>
-Commanding chief of heavenly hosts/ O holiest of holies 
-
-
-
-
-
-Марíа Аипáртхене кóсму пантóс Кирíа, Р Áхранте Нíмфи Пáнагне, Дéспина Панагíа, Р Марíа Нíмфи Áнасса, харáс имóн етíа, Р Корí семнí Васíлисса, Мíтир иперагíа, Р Тимиотéра Херувíм, иперендоxотéра Р Тон асомáтон Серафíм, тон Тхрóнон ипертéра. Р      
-
-O ever-virgin Mary/ O Mistress of creation <br>
-O Bride all-pure and spotless/ O Lady all-holy <br>
-O holy Mary, Bride and Queen/ and cause of our rejoicing \ O Maiden Queen most hon\'rable/ O Mother most holy <br>
-More precious than the cherubim/ more glorious than the seraphim <br>
-Surpassing principalities/ dominions, thrones and powers  
-
-
-
-
-
-Хéре то áсма Херувíм, хéре íмнос ангéлон, Р Хéре одí тон Серафíм, харá тóн Архангéлон, Р Хéре ирíни ке харá, лимíн тис сотирíас, Р Пастáс ту Лóгу иерá, áнтхос тис афтхарсíас, Р Хéре Парáдисе трифíс, зоíс те еонíас, Р Хéре то xíлон тис зоíс, пигí атханасíас. Р     
-
-Rejoice, song of the cherubim/ Rejoice, hymn of the angels \ Rejoice, ode of the seraphim/ and joy of the archangels <br>
-Rejoice, O peace; Rejoice, O joy/ and haven of salvation \ O bridal chamber of the Word/ unfading, fragrant blossom \ Rejoice, delight of paradise/ Rejoice, life everlasting \ Rejoice, O holy tree of life/ and fount of immortality  
-
-
-
-
-
-\"\\\\\\\\\\\\\\\"\"С е икетéво Дéспина, Се, нин, епикалúме,Р
-Се дисопó Пантáнасса, Син хáрин еxетúме.Р
-Корí семнí ке áспиле, Дéспина Панагíа,Р
-Епáкусóн му, áхранте, Кóсму пантóс кирíа,Р\[3\]
-Антилавú му, рíсе ме апó ту полемíу,Р
-Ке клиронóмон дíxон ме зоíс тис еонíу.Р\\\\\\\\\\\\\\ \"\"\"  
-
          
 
 <div class="tabset">
