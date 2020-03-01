@@ -114,39 +114,39 @@ published: true
 
 Si seulement je savais-sentais<br>
 L'heure quand je mourrai,<br>
-Ô Seigneur, mon Dieu\!<br>
+Ô Seigneur, mon Dieu!<br>
 Je ferais un bon charpentier<br>
 Me préparer un cercueillet<br>
-Ô Seigneur, mon Dieu\!<br>
+Ô Seigneur, mon Dieu!<br>
 
 <br>
 
 Je m'allonge et je meurs,<br>
 Jusqu'à Dieu je vole<br>
-Ô Seigneur, mon Dieu\!<br>
+Ô Seigneur, mon Dieu!<br>
 Suis-je pour notre Dieu<br>
 Tel un grand souci.<br>
-Ô Seigneur, mon Dieu\!<br>
+Ô Seigneur, mon Dieu!<br>
 
 
 <br>
 
-Ô ma belle herbe, ma soyeuse\!<br>
-Ô mes rosées perlières\!<br>
+Ô ma belle herbe, ma soyeuse!<br>
+Ô mes rosées perlières!<br>
 
 <br>
 
 Descends-moi, ô mon Seigneur,<br>
 Du ciel jusque sur la terre<br>
-Ô Seigneur, mon Dieu\!<br>
+Ô Seigneur, mon Dieu!<br>
 Du ciel jusque sur la terre<br>
 Sur du sable jaune<br>
-Ô Seigneur, mon Dieu\!<br>
+Ô Seigneur, mon Dieu!<br>
 
 <br>
 
-Ô ma belle herbe, ma soyeuse\!<br>
-Ô mes rosées perlières\!<br>
+Ô ma belle herbe, ma soyeuse!<br>
+Ô mes rosées perlières!<br>
 
 
 </section>
