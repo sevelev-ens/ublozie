@@ -31,30 +31,30 @@ categories: [Іўрыт, Мовы, Песні]
   <div class="tab-panels">
     <section id="phon" class="tab-panel">
 
-Mitparek kmo ha tmuna ha yešana še be veytex,<br>
-Mitxamek mi kol davar še mazkir li et lextex,<br>
-Ve lo yadua, ani lo batuax le·an ani holeh,<br>
-Ha ga·agua še niš·ar, ani od hay li ba avar, šo·el madua.<br>
+Mitparék kmo ha tmuná ha yešaná še be veytéx,<br>
+Mitxamék mi kol davár še mazkír li et lextéx,<br>
+Ve lo yadúa, aní lo batúax le·án aní holéh,<br>
+Ha ga·agúa še niš·ár, aní od hay li ba avár, šo·él madúa.<br>
  <br>
-Ve axšav ani mabit rak ba tmunot...<br>
+Ve axšáv aní mabít rak ba tmunót...<br>
 <br>
-Roked im ha ke·ev, kše at oxezet be yado,<br>
-Ha·im libex axšav šelo?<br>
-Kše at oxezet be yado,<br>
-Ha·im libex axšav šelo?<br>
+Rokéd im ha ke·év, kše at oxézet be yadó,<br>
+Ha·ím libéx axšáv šeló?<br>
+Kše at oxézet be yadó,<br>
+Ha·ím libéx axšáv šeló?<br>
  <br>
-Mitxamek mi kol davar ve rak holeh u mitrahek,<br>
-Ve at omedet le muli, ani no·aš u mitbayeš,<br>
-Ve lo yadua, ani lo batuax le·an ani holeh,<br>
-Ha ga·agua še hiš·art, ani od hay li ba avar, šo·el madua.<br>
+Mitxamék mi kol davár ve rak holéh u mitrahék,<br>
+Ve at omédet le mulí, ani no·áš u mitbayéš,<br>
+Ve lo yadúa, aní lo batúax le·án aní holéh,<br>
+Ha ga·agúa še hiš·árt, aní od háy li ba avár, šo·él madúa.<br>
  <br>
-Ve axšav ani mabit rak ba tmunot...<br>
+Ve axšáv aní mabít rak ba tmunót...<br>
 <br>
-Roked im ha ke·ev, kše at oxezet be yado,<br>
-Ha·im libex axšav šelo?<br>
-Kše at oxezet be yado,<br>
-Ha·im libex axšav šelo?<br>
-
+Rokéd im ha ke·év, kše at oxézet be yadó,<br>
+Ha·ím libéx axšáv šeló?<br>
+Kše at oxézet be yadó,<br>
+Ha·ím libéx axšáv šeló?<br>
+ <br>
 
     </section>
       <section id="heb" class="tab-panel">
