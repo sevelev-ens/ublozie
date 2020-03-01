@@ -19,7 +19,7 @@ categories: [Песні, Персідская мова]
 <div class="tabset">
   <!-- Tab 1 -->
   <input type="radio" name="tabset" id="tab1" aria-controls="phon" checked>
-  <label for="tab1">па-персідску (фанемы),<br>[лацінка ААН 2012](https://fias.fr/projects/persian/)</label>
+  <label for="tab1">па-персідску (фанемы),<br><a href="https://fias.fr/projects/persian/" target="_blank">лацінка ААН 2012</a></label>
   <!-- Tab 2 -->
   <input type="radio" name="tabset" id="tab2" aria-controls="pers">
   <label for="tab2">فارسی</label>
