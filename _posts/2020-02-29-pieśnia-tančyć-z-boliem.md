@@ -34,7 +34,7 @@ categories: [Іўрыт, Мовы, Песні]
 Mitparék kmo ha tmuná ha yešaná še be veytéx,<br>
 Mitxamék mi kol davár še mazkír li et lextéx,<br>
 Ve lo yadúa, aní lo batúax le·án aní holéh,<br>
-Ha ga·agúa še niš·ár, aní od hay li ba avár, šo·él madúa.<br>
+Ha ga·agúa še niš·ár, aní od hay li be avár, šo·él madúa.<br>
  <br>
 Ve axšáv aní mabít rak ba tmunót...<br>
 <br>
@@ -46,7 +46,7 @@ Ha·ím libéx axšáv šeló?<br>
 Mitxamék mi kol davár ve rak holéh u mitrahék,<br>
 Ve at omédet le mulí, ani no·áš u mitbayéš,<br>
 Ve lo yadúa, aní lo batúax le·án aní holéh,<br>
-Ha ga·agúa še hiš·árt, aní od háy li ba avár, šo·él madúa.<br>
+Ha ga·agúa še hiš·árt, aní od háy li be avár, šo·él madúa.<br>
  <br>
 Ve axšáv aní mabít rak ba tmunót...<br>
 <br>
