@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Τῇ ὑπερμάχῳ στρατηγῷ
+title: Абаронцы-Ваяводзе — Ті іпэрма́хо стратіго́ — Τῇ ὑπερμάχῳ στρατηγῷ
 featured-img: stratego
 usesame-img: 'yes'
 categories:
@@ -9,7 +9,7 @@ categories:
 published: true
 ---
 
-# Τῇ ὑπερμάχῳ στρατηγῷ
+# Абаронцы-Ваяводзе — Ті іпэрма́хо стратіго́ — Τῇ ὑπερμάχῳ στρατηγῷ
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7mMAcQgzg4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

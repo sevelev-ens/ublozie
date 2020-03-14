@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ἁγνὴ Παρθένε
+title: О Валадарыня Найчыстая — Агні́ Партэ́нэ — Ἁγνὴ Παρθένε
 featured-img: theotokos
 usesame-img: 'yes'
 categories:
@@ -9,7 +9,7 @@ categories:
 published: true
 ---
 
-# Ἁγνὴ Παρθένε — гімн да Багамаці
+# О Валадарыня Найчыстая // Агні́ Партэ́нэ // Ἁγνὴ Παρθένε — гімн да Багамаці
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fiK8wHm4JGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
