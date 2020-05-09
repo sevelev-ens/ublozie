@@ -2,6 +2,7 @@
 layout: post
 title: Савецкія дыглосіі&colon; двухмоўныя дакументы
 featured-img: fantastyčny-prafbiliet
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 usesame-img: yes
 categories: [Двухмоўе, Мовы]
 ---

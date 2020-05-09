@@ -1,5 +1,6 @@
 ---
 layout: post
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 title: Абаронцы-Ваяводзе — Ті іпэрма́хо стратіго́ — Τῇ ὑπερμάχῳ στρατηγῷ
 featured-img: stratego
 usesame-img: 'yes'

@@ -2,6 +2,7 @@
 layout: post
 title: Беларускія грошы, billets de banque bélarussiens
 featured-img: B5000-1
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 usesame-img: yes
 categories: [Беларусь, Беларуская мова]
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Травушъка шелъковая
 featured-img: fogfarm
 usesame-img: 'yes'
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 categories:
   - Песні
   - Беларуская мова

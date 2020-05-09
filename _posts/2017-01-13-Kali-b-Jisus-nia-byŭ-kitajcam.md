@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Калі б Ісус не быў кітайцам
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: jesus/234-2-700x438
 usesame-img: yes
 categories: [Хрысціянства, Усцешнае]

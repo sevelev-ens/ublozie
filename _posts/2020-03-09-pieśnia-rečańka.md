@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Песня «Рэчанька»
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: rečačka
 usesame-img: yes
 categories: [Беларуская мова, Песні]

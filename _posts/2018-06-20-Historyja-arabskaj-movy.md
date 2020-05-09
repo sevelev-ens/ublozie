@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Гісторыя арабскай мовы
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: sleek
 usesame-img: yes
 categories: [Мовазнаўства, Арабская мова]

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Песня «Танчыць з болем» — Roqed ʕim ha-keʔev
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: dance
 usesame-img: yes
 categories: [Іўрыт, Мовы, Песні]

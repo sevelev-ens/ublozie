@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rasa Doniela — Tu Prisėdai Šalia 
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: emile-perron-190221
 usesame-img: yes
 categories: [Песні, Літоўская мова]

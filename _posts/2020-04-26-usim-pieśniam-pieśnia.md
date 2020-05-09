@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Усім песням песня
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: love
 usesame-img: yes
 categories: [Беларуская мова, Песні, Біблія, Эротыка]

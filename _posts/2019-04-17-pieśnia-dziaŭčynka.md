@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Песня «Дзяўчынка» — Yalda ktana
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: ptuška-na-luzie
 usesame-img: yes
 categories: [Іўрыт, Мовы, Песні]

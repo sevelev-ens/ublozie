@@ -7,6 +7,7 @@ description: > # Meta description of Homepage
   языкознание, современность и минувшее, про научно-исследовательский
   подход. Тексты песен на разных языках.
 baseurl: "/ublozie" # the subpath of your site, e.g. /blog
+logo: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 url: "https://seveleu.com" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-sleek
 lang: be

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Āraš Labāf – «Tike Tike Kardi»
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 featured-img: sleek
 usesame-img: yes
 categories: [Песні, Персідская мова]

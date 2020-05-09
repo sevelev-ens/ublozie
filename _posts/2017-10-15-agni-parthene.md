@@ -2,6 +2,7 @@
 layout: post
 title: О Валадарыня Найчыстая — Агні́ Партэ́нэ — Ἁγνὴ Παρθένε
 featured-img: theotokos
+image: "https://seveleu.com/assets/img/valo%C5%A1kahor.png"
 usesame-img: 'yes'
 categories:
  - Песні
