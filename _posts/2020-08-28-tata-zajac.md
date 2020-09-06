@@ -2,7 +2,7 @@
 layout: post
 title: Прэтэнзіі на слана
 image: "https://seveleu.com/assets/img/posts/roger.png"
-featured-img: roger
+featured-img: roger.png
 usesame-img: yes
 categories: [Беларуская мова, вершы]
 ---
