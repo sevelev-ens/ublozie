@@ -61,8 +61,8 @@ I тата той, і сваякі<br>
 Заслуг жа — як у зайца.<br>
 
 
-[](/ublozie/assets/img/posts/roger2.jpg)
+![](/ublozie/assets/img/posts/roger2.jpg)
 
-[](/ublozie/assets/img/posts/roger3.jpg)
+![](/ublozie/assets/img/posts/roger3.jpg)
 
 На здымку — [вядомы кенгуру Роджэр](https://en.wikipedia.org/wiki/Roger_(kangaroo)).
