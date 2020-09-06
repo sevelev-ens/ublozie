@@ -4,7 +4,7 @@ title: Прэтэнзіі на слана
 image: "https://seveleu.com/ublozie/assets/img/posts/roger.jpg"
 featured-img: roger
 usesame-img: yes
-categories: [Беларуская мова, вершы]
+categories: [Беларуская мова, Вершы]
 ---
 
 # Тата-заяц
