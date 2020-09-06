@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Прэтэнзіі на слана
-image: "https://seveleu.com/assets/img/posts/roger.png"
+image: "https://seveleu.com/ublozie/assets/img/posts/roger.png"
 featured-img: roger.png
 usesame-img: yes
 categories: [Беларуская мова, вершы]
@@ -61,8 +61,8 @@ I тата той, і сваякі<br>
 Заслуг жа — як у зайца.<br>
 
 
-[](/assets/img/posts/roger2.jpg)
+[](/ublozie/assets/img/posts/roger2.jpg)
 
-[](/assets/img/posts/roger3.jpg)
+[](/ublozie/assets/img/posts/roger3.jpg)
 
 На здымку — [вядомы кенгуру Роджэр](https://en.wikipedia.org/wiki/Roger_(kangaroo)).
