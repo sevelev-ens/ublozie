@@ -11,6 +11,7 @@ categories: [Беларуская мова, вершы]
 
 *байка Кандрата Крапівы, 1935*
 
+![](/ublozie/assets/img/posts/roger3.jpg)
 
 Пасуцца па начах заўсёды коні нашы<br>
 З вясны да восені — даволі-такі часу.<br>
@@ -63,6 +64,4 @@ I тата той, і сваякі<br>
 
 ![](/ublozie/assets/img/posts/roger2.jpg)
 
-![](/ublozie/assets/img/posts/roger3.jpg)
-
-На здымку — [вядомы кенгуру Роджэр](https://en.wikipedia.org/wiki/Roger_(kangaroo)).
+На здымках — [вядомы кенгуру Роджэр](https://en.wikipedia.org/wiki/Roger_(kangaroo)).
